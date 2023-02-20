@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main__input--form {
+  display: flex;
+  gap: 20px;
+  padding: 30px;
+}
+
+.main__input--label {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+.main__input {
+  padding: 10px;
+}
+
+.task-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  width: 70%;
+  margin: 0 auto;
+}
